@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Laxman Maharjan (lmmrssa)
 
-You can use the [editor on GitHub](https://github.com/lmmrssa/lmmrssa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Location** Nepal
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Timezone** (UTC) +5:45
 
-### Markdown
+**Github** [lmmrssa](https://github.com/lmmrssa)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Email** email@mlaxman.com.np
 
-```markdown
-Syntax highlighted code block
+### Short Intro
 
-# Header 1
-## Header 2
-### Header 3
+I have been working as professional developer since **2010**. During these period, I have worked on various frameworks and platforms. My core strength is understanding any code irrespective of platform/framework used. Along with that I do architecture design of software and manage the team.
 
-- Bulleted
-- List
+### Skills + Familiarities
+- PHP
+- Javascript
+- HTML/CSS
+- Database (SQL/CouchDB)
+- Android
+- Angular
+- More still acquiring ...
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lmmrssa/lmmrssa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
