@@ -47,5 +47,5 @@ I have been working as professional developer since **2010**. During this period
 ### Open Source Communities
 
 [![Open Learning Exchange](assests/OLE-logo-bluetype-tag-cmyk.jpg)](https://github.com/open-learning-exchange/planet)
-<a href="https://github.com/Ushahidi" class="logo" style="background: grey; padding: 10px;"><img src="assests/ushahidi-wordmark.svg" alt="Ushahidi" width="450px"/></a>
+<a href="https://github.com/Ushahidi"><img src="assests/ushahidi-wordmark.svg" alt="Ushahidi" width="450px"/></a>
   
