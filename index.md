@@ -21,3 +21,6 @@ I have been working as professional developer since **2010**. During this period
 - Angular
 - More still acquiring ...
 
+[![Open Learning Exchange](./assets/OLE-logo-bluetype-tag-cmyk.jpg)](https://github.com/open-learning-exchange/planet)
+<a href="https://github.com/Ushahidi">
+  <img src="./assets/ushahidi-wordmark.svg" alt="Ushahidi" width="450px"/></a>
